@@ -72,17 +72,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 https://www.youtube.com/watch?v=Q9n2mLqXFpU
 
 ### Do not forget to delete
-    ```
-    "homepage": "https://hacking-nassa-with-html.github.io/Educational_Tesla_clone/",
-    ```
-    if you want to run repo on localhost
+`
+"homepage": "https://hacking-nassa-with-html.github.io/Educational_Tesla_clone/",
+`
+if you want to run repo on localhost
 
 ### How to turn off production build and use development mode
 First delete the production code, which is build folder:
-```
+`
 rm -rf build
-```
+`
 and now start the development server
-```
+`
 npm run start
-```
+`

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Educational_Tesla_clone/static/css/main.d5124cd0.css",
+    "main.js": "/Educational_Tesla_clone/static/js/main.dbc9c947.js",
+    "index.html": "/Educational_Tesla_clone/index.html",
+    "main.d5124cd0.css.map": "/Educational_Tesla_clone/static/css/main.d5124cd0.css.map",
+    "main.dbc9c947.js.map": "/Educational_Tesla_clone/static/js/main.dbc9c947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5124cd0.css",
+    "static/js/main.dbc9c947.js"
+  ]
+}
